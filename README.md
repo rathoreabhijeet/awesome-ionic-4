@@ -38,7 +38,7 @@
 #### Boilerplate / Starters
 * [Ionic 4 React Full App Starter](https://store.enappd.com/product/ionic-react-full-app-capacitor/)
 
-## 3. Ionic 4 - Vue
+## 3. Ionic 4 Vue
 
 #### Video blogs
 * [Ionic 4 + Vue Basics - Reddit Clone](https://www.youtube.com/watch?v=o7rb1S2Txfw)
@@ -52,7 +52,7 @@
 #### Boilerplate / Starters
 * [Ionic Vue Starter](https://github.com/W4G1/ionic-vue-starter)
 
-## 4. Ionic 4 - Angular
+## 4. Ionic 4 Angular
 
 ### Boilerplate / Starters
 * Complete App and PWA Starter - [Source 1](https://store.enappd.com/product/ionic-4-full-app/) | [Source 2](https://ionicthemes.com/product/ionic4-full-starter-app)
