@@ -26,6 +26,7 @@
 * Ionic 4 Starter Apps - [Source 1](https://ionicthemes.com) | [Source 2](https://enappd.com)
 * Ionic 4 Free Tutorials - [Source 1](https://ionicthemes.com/tutorials) | [Source 2](https://enappd.com/blog)
 * [Free Ionic 4 Starters](https://enappd.com/blog/ionic-4-free-starters-info/33)
+* [Complete Ionic Courses](https://ionicacademy.com/)
 
 ## 2. Ionic 4 React
 
